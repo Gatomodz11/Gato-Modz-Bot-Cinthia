@@ -1,0 +1,114 @@
+{
+  "personajes": [
+    {
+      "nombre": "Goku",
+      "ki": "60.000.000",
+      "maxKi": "90 Septillion",
+      "raza": "Saiyan",
+      "genero": "Masculino",
+      "descripcion": "El protagonista de la serie, conocido por su gran poder y personalidad amigable...",
+      "imagen": "https://res.cloudinary.com/dgtgbyo76/image/upload/v1699044374/hlpy6q013uw3itl5jzic.webp",
+      "afiliacion": "Z Fighter"
+    },
+    {
+      "nombre": "Vegeta",
+      "ki": "54.000.000",
+      "maxKi": "19.84 Septillion",
+      "raza": "Saiyan",
+      "genero": "Masculino",
+      "descripcion": "Príncipe de los Saiyans, inicialmente un villano, pero luego se une a los Z Fighters...",
+      "imagen": "https://res.cloudinary.com/dgtgbyo76/image/upload/v1699044422/i9hpfjplth6gjudvhsx3.webp",
+      "afiliacion": "Z Fighter"
+    },
+    {
+      "nombre": "Piccolo",
+      "ki": "2.000.000",
+      "maxKi": "500.000.000",
+      "raza": "Namekiano",
+      "genero": "Masculino",
+      "descripcion": "Es un namekiano que surgió tras ser creado en los últimos momentos de vida de su padre...",
+      "imagen": "https://res.cloudinary.com/dgtgbyo76/image/upload/v1699044481/u9fhpc9smihu2kud3cuc.webp",
+      "afiliacion": "Z Fighter"
+    },
+    {
+      "nombre": "Bulma",
+      "ki": "0",
+      "maxKi": "0",
+      "raza": "Humano",
+      "genero": "Femenino",
+      "descripcion": "Bulma es la protagonista femenina de la serie manga Dragon Ball...",
+      "imagen": "https://res.cloudinary.com/dgtgbyo76/image/upload/v1699044496/bifhe9qarbrgvm0tsiru.webp",
+      "afiliacion": "Z Fighter"
+    },
+    {
+      "nombre": "Freezer",
+      "ki": "530.000",
+      "maxKi": "52.71 Septillion",
+      "raza": "Raza de Freezer",
+      "genero": "Masculino",
+      "descripcion": "Freezer es el tirano espacial y el principal antagonista de la saga de Freezer...",
+      "imagen": "https://res.cloudinary.com/dgtgbyo76/image/upload/v1699044513/ux3n5u0tjdvysjao4w8s.webp",
+      "afiliacion": "Ejército de Freezer"
+    },
+    {
+      "nombre": "Zarbon",
+      "ki": "20.000",
+      "maxKi": "30.000",
+      "raza": "Raza de Freezer",
+      "genero": "Masculino",
+      "descripcion": "Zarbon es uno de los secuaces de Freezer y un luchador poderoso...",
+      "imagen": "https://res.cloudinary.com/dgtgbyo76/image/upload/v1699044531/jcdgte2shoaj2jh0ruob.webp",
+      "afiliacion": "Ejército de Freezer"
+    },
+    {
+      "nombre": "Dodoria",
+      "ki": "18.000",
+      "maxKi": "20.000",
+      "raza": "Raza de Freezer",
+      "genero": "Masculino",
+      "descripcion": "Dodoria es otro secuaz de Freezer conocido por su brutalidad...",
+      "imagen": "https://res.cloudinary.com/dgtgbyo76/image/upload/v1699044548/m2mixyphepp8qwcigb3g.webp",
+      "afiliacion": "Ejército de Freezer"
+    },
+    {
+      "nombre": "Ginyu",
+      "ki": "9.000",
+      "maxKi": "25.000",
+      "raza": "Raza de Freezer",
+      "genero": "Masculino",
+      "descripcion": "Ginyu es el líder del la élite de mercenarios de mayor prestigio del Ejército de Freeza...",
+      "imagen": "https://res.cloudinary.com/dgtgbyo76/image/upload/v1699129673/dxsl3rjhrfmajo2gealz.webp",
+      "afiliacion": "Ejército de Freezer"
+    },
+    {
+      "nombre": "Cell",
+      "ki": "250.000.000",
+      "maxKi": "5 Billion",
+      "raza": "Androide",
+      "genero": "Masculino",
+      "descripcion": "Cell conocido como Célula en España, es un bioandroide creado por la computadora del Dr. Gero...",
+      "imagen": "https://res.cloudinary.com/dgtgbyo76/image/upload/v1699044573/mz09ghskyzf0skprredi.webp",
+      "afiliacion": "Freelancer"
+    },
+    {
+      "nombre": "Gohan",
+      "ki": "45.000.000",
+      "maxKi": "40 septillion",
+      "raza": "Saiyan",
+      "genero": "Masculino",
+      "descripcion": "Son Gohanda en su tiempo en España, o simplemente Gohan en Hispanoamérica...",
+      "imagen": "https://res.cloudinary.com/dgtgbyo76/image/upload/v1699044627/kigekwjt2m8nwopgvabv.webp",
+      "afiliacion": "Z Fighter"
+    },
+    {
+          "nombre": "Akira Toriyama",
+      "ki": "999999.000.000",
+      "maxKi": "999999999999999999- leyenda",
+      "raza": "Humano",
+      "genero": "Masculino",
+      "descripcion": "Akira Toriyama (5 de abril de 1955, Nagoya - 1 de marzo de 2024, Tokio) fue un mangaka japonés.\nToriyama es uno de los autores fundamentales de la historia del cómic. Alcanzó una relevancia universal como creador del universo de Dragon Ball.\nSegún Toriyama sus principales fuentes de inspiración vienen de su infancia: de las creaciones de Osamu Tezuka., en especial Astro Boy., los dibujos animados de Walt Disney y las películas de Jackie Chan., con su mezcla de artes marciales y humor.\nAntes de convertirse en profesional del manga, trabajó en una agencia de publicidad como diseñador de carteles. Participó un concurso de la mítica revista Shonen Jump y, si bien no ganó, quedó finalista, lo que le permitió debutar con una historia corta en 1978.\nSu primer éxito fue la comedia de ciencia ficción Dr. Slump.que se publicó entre 1980 y 1984. Recibió el importante Premio Shogakukan a la mejor serie de manga shonen o shojo del año en 1981 y fue adaptada a una serie de anime. Sólo en Japón llegó a vender más de 35 millones de copias.\nUna vez concluida Dr. Slump, Shonen Jump comenzó a serializar Dragon Ball., que a menudo se ha considerado el manga más influyente de la historia. Hasta esa fecha, predominaban en el género los enfoques serios e hiperviolentos, mientras que Toriyama le dio un tono más cómico, luminoso y aventurero. La serie, y su continuación Dragon Ball Z., se publicó entre 1984 y 1995.\nHa dado lugar a varias series de animación., numerosas películas. y varios videojuegos., además de muchísimos objetos de merchadising. Se calcula que ha vendido unos 150 millones de tomos en Japón y otros 300 millones en total en el resto del mundo.\nToriyama además ha sido el diseñador de personajes de un cierto número de videojuegos, como Dragon Quest., Super Famicom RPG Chrono Trigger y Tobal. También fue contratado para el diseño del QVOLT, un automóvil eléctrico japonés.\nSu último trabajo original hasta la fecha es la serie de animación Blue Dragon (2007), adaptación de un videojuego de PS4.\nAkira Toriyama estuvo casado con otra mangaka, Yoshimi Kato, y tuvo dos hijos. Era un gran amante de los animales, y en su hogar convivía con los pájaros, gatos, perros, peces, reptiles e insectos que tenía como mascotas. Comentó a menudo que los utilizaba como modelos de sus personajes.\nRecibió en 2013 el Premio Especial del Festival Internacional de Cómics de Angoulême 2013, y en 2019 fue nombrado por el gobierno francés Caballero de la Orden de las Artes y las Letras.\nEn 2010, una encuesta en Japón lo señaló como el autor de manga más importante de todos los tiempos, tras Osamu Tezuka.\nA pesar de su fama global, Toriyama siempre se mostró en público como una persona modesta. Como señaló en una entrevista, su único propósito en su trabajo había sido proporcinar entretenimiento y diversión a los niños.\nEn 2024, se dio la repentina noticia de su fallecimiento, por un derrame cerebral agudo, que fue acogida con muestras de dolor y respeto por autores del noveno arte de todo el mundo.\nUno de sus principales discípulos y sucesores, el autor de One Piece, Eiichiro Oda, afirmó:el vacío que deja Toriyama es demasiado grande... Nos enseñó que en el manga son posibles muchas más cosas de lo que habíamos imaginado y nos hizo soñar con los universos que creó para todos nosotros. Era como estar viendo a un héroe que iba por delante del resto y, a la vez, nos enseñaba el camino.",
+      "imagen": "https://telegra.ph/file/20b6e35eab2a02dd6929b.jpg",
+      "afiliacion": "Creador de Dbz"
+    }
+  ]
+}

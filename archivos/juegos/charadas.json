@@ -1,0 +1,72 @@
+[
+{
+"charada":"¿Profesión que es representativa por usar pantalon jean azul, zapatos marrones y casco blanco?",
+"respuesta": "ingeniero",
+"imagen" : "https://i.postimg.cc/1Xz9KG3C/images-5.jpg"
+},
+{
+"charada":"¿Profesión que es representativa por usar bata y zapatos blancos , ademas de ello recurrimos cuando estamos enfermos?",
+"respuesta": "doctor",
+"imagen" : "https://i.postimg.cc/V6msJQQc/images-6.jpg"
+},
+{
+"charada":"¿Profesión que es representativa por usar lapices y pinturas , ademas de ello son amantes de la belleza y naturaleza?",
+"respuesta": "pintor",
+"imagen" : "https://i.postimg.cc/MHrz3ncW/images-7.jpg"
+},
+{
+"charada":"¿Profesión que es representativa por usar planos y estructura , ademas de ello recurrimos para plantear nuestra idea en 1 plano?",
+"respuesta": "arquitecto",
+"imagen" : "https://i.postimg.cc/KYnvccWN/images-8.jpg"
+},
+{
+"charada":"¿Profesión que es representativa por usar utencilios de cocina?",
+"respuesta": "chef",
+"imagen" : "https://telegra.ph/file/3c87c3b19da8d3e1fa81e.jpg"
+},
+{
+"charada":"¿Profesión que es representativa por mantener el orden de la sociedad y captura delincuentes?",
+"respuesta": "policia",
+"imagen" : "https://telegra.ph/file/6582c21942e67bb67c5d0.jpg"
+},
+{
+"charada":"¿Profesión que es representativa por viajar al espacio y formar parte de la nasa?",
+"respuesta": "astronauta",
+"imagen" : "https://telegra.ph/file/945db30b71f87e8ae8f36.jpg"
+},
+{
+"charada":"¿Profesión que es representativa por usar su inteligencia y crear cosas en beneficio de la ciencia?",
+"respuesta": "cientifico",
+"imagen" : "https://telegra.ph/file/ed7c5d2bccee9306aaf7a.jpg"
+},
+{
+"charada":"¿Profesión que es representativa por usar pizarra ,plumones o tizas , la cual ayuda a educar consiente o inconsientemente a las personas(versión varón)?",
+"respuesta": "profesor",
+"imagen" : "https://telegra.ph/file/dc42ca5e4178cca3fd35f.jpg"
+},
+{
+"charada":"¿Profesión que es representativa por usar pizarra ,plumones o tizas , la cual ayuda a educar consiente o inconsientemente a las personas(versión mujer)?",
+"respuesta": "profesora",
+"imagen" : "https://telegra.ph/file/3a2b2df8e43457f9d1011.jpg"
+},
+{
+"charada":"¿Profesión que es representativa por curar nuestros dientes, blanquearlos o quitarlos en caso sea necesario?",
+"respuesta": "dentista",
+"imagen" : "https://telegra.ph/file/63104f2643ac4f39679a9.jpg"
+},
+{
+"charada": "¿Profesión que es representativa por cuidar de nuestros animales o hacerles una limpieza si en caso sea necesario (versión chico)?",
+"respuesta": "veterinario",
+"imagen": "https://telegra.ph/file/017abcb11cdfda31aab46.jpg"
+},
+{
+"charada": "¿Profesión que es representativa por cuidar de nuestros animales o hacerles una limpieza si en caso sea necesario (versión chica)?",
+"respuesta": "veterinaria",
+"imagen": "https://telegra.ph/file/bf7dfc5f56497d9dda38d.jpg"
+},
+{
+"charada": "¿Profesión que es representativa por arreglar nuestros autos, motos o algun vehiculo terrestre que use motor?",
+"respuesta": "mecanico",
+"imagen": "https://telegra.ph/file/a601a4016e6407b3ce971.jpg"
+}
+]
